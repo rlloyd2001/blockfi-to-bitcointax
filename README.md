@@ -5,6 +5,8 @@ Not tested much, use at your own risk.
 
 Filters out USD and provides a yearly total of USD interest.
 
+This only does BlockFi interest for bitcoin.tax, not trades.
+
 ## Prerequisites
 *   NodeJs (v14.x)
 *   Npm
