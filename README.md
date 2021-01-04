@@ -1,11 +1,13 @@
 # BlockFi To BitcoinTax
 
+This script has saved me many hours of data entry for interest earned.
+What this script does is take a .csv file from BlockFi and create a .csv file that can be
+uploaded into the Income section of bitcoin.tax.
+
 Download transactions .csv from blockfi.com to use with this script.
-Not tested much, use at your own risk.  
+Not tested much. Review your generated .csv before uploading to bitcoin.tax to make sure this is what you are needing.
 
-Filters out USD and provides a yearly total of USD interest.
-
-This only does BlockFi interest for bitcoin.tax, not trades.
+Filters out USD and prints a yearly total in the console of USD interest.
 
 ## Prerequisites
 *   NodeJs (v14.x)
